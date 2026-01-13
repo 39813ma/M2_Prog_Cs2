@@ -1,0 +1,16 @@
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\bin\Debug\net9.0\06_fileIo.exe
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\bin\Debug\net9.0\06_fileIo.deps.json
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\bin\Debug\net9.0\06_fileIo.runtimeconfig.json
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\bin\Debug\net9.0\06_fileIo.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\bin\Debug\net9.0\06_fileIo.pdb
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.AssemblyInfoInputs.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.AssemblyInfo.cs
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.csproj.CoreCompileInputs.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.sourcelink.json
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\refint\06_fileIo.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.pdb
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\06_fileIo.genruntimeconfig.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\obj\Debug\net9.0\ref\06_fileIo.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\06_fileIo\bin\Debug\net9.0\quiz.txt

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\M2_Prog_Cs2.csproj": {}
+    "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\06_fileIo\\06_fileIo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\M2_Prog_Cs2.csproj": {
+    "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\06_fileIo\\06_fileIo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\M2_Prog_Cs2.csproj",
-        "projectName": "M2_Prog_Cs2",
-        "projectPath": "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\M2_Prog_Cs2.csproj",
+        "projectUniqueName": "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\06_fileIo\\06_fileIo.csproj",
+        "projectName": "06_fileIo",
+        "projectPath": "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\06_fileIo\\06_fileIo.csproj",
         "packagesPath": "C:\\Users\\marni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\obj\\",
+        "outputPath": "C:\\Users\\marni\\School\\Visual Studio\\M2\\M2_Prog_Cs2\\06_fileIo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

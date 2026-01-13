@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "06_fileIo/1.0.0": {
+        "runtime": {
+          "06_fileIo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06_fileIo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
